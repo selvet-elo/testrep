@@ -1,3 +1,3 @@
 # Selvet is
 ## trying to
-Learnin' GitHub 
+Learn GitHub 
