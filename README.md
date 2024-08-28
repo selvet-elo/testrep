@@ -1,2 +1,2 @@
-# testrep
-testing repository
+# Selvet is
+Learnin' GitHub 
