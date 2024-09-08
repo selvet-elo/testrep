@@ -1,3 +1,3 @@
-# Selvet is
-## trying to
-Learn GitHub 
+#Learnin Python
+##Notebook
+Exercises 
